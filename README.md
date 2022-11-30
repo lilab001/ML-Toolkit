@@ -2,6 +2,8 @@
 
 Hey there 
 
-This folder contains a Tool kit that can be used to study various dataset.  I use it as a reference when encountering different situations and also organizing the various topics one can come accross and keep code/examples handy.
+This folder contains a Tool kit that can be used to study datasets.  
+
+I use it as a reference to keep code/examples handy.
 
 Feel free to snoop around and leave comments !
